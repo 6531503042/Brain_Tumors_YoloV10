@@ -1,7 +1,7 @@
 # Brain Tumor Detection using YOLOv10
 <br />
 <div align="center">
-    <img src="https://raw.githubusercontent.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/master/ReadMe_files/MRI-animinated.gif" alt="logo" width="125" height="125">
+    <img src="https://raw.githubusercontent.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/master/ReadMe_files/MRI-animinated.gif" alt="logo" width="225" height="225">
 </div>
 
 ## Project Overview 💼
@@ -14,6 +14,7 @@ The primary purpose of this project is to ->
 
 ## Dataset 🏗
 The dataset used in this project comprises a large number of brain tumor images. Each image has been meticulously annotated to ensure accurate detection and classification.
+<img src="./data/images/train/glioma_tumor/gg1.jpg">
 
 ## Example of Dataset
 Please note that the dataset is not included in this repository due to its size. You can use your own dataset or download publicly available brain tumor datasets.
